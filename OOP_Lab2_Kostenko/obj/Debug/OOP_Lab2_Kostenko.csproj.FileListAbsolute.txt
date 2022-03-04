@@ -1,0 +1,10 @@
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\bin\Debug\OOP_Lab2_Kostenko.exe.config
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\bin\Debug\OOP_Lab2_Kostenko.exe
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\bin\Debug\OOP_Lab2_Kostenko.pdb
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\obj\Debug\OOP_Lab2_Kostenko.csprojAssemblyReference.cache
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\obj\Debug\OOP_Lab2_Kostenko.csproj.CoreCompileInputs.cache
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\obj\Debug\OOP_Lab2_Kostenko.exe
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\obj\Debug\OOP_Lab2_Kostenko.pdb
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mitia\source\repos\OOP_Lab2_Kostenko\OOP_Lab2_Kostenko\obj\Debug\OOP_Lab2_Kostenko.csproj.CopyComplete
